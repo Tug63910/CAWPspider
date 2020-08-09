@@ -1,0 +1,8 @@
+Scrapy spider used for CAWP project. Mirror of CAWP spider.
+
+Installed packages:
+scrapy
+beautifulsoup4
+html2text
+wheel
+
